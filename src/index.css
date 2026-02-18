@@ -1,0 +1,12 @@
+ul {
+    list-style-type: none;
+}
+
+li {
+    font-size: large;
+    color: black;
+    border-bottom: 1px solid black;
+    padding: 2rem;
+    margin: 1rem;
+    gap: 1rem;
+}
